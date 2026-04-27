@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Neigungsmesser</string>
+    <string name="status_level">Gerade ✓</string>
+    <string name="status_tilted">Geneigt</string>
+    <string name="button_calibrate">Nullpunkt setzen</string>
+</resources>
